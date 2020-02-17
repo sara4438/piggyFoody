@@ -1,0 +1,14 @@
+
+
+
+
+
+  12     3     21
+  11     3     11
+  a1i   1m1   j1a
+   a1  1aaa1  1a
+    a1ka   al1a
+     aa     aa
+
+111g11110001111h111111
+aaaaaaaaaaaaaaaaaaaaaa
